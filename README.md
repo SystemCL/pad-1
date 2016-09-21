@@ -5,12 +5,12 @@
 ###Instalation:###
 
 	For this project you need to install:
- 	- Python version greater than 3.0 
+        - Python version greater than 3.0 
 	- Nano or another text editor if you use UNIX destribution without 
- 	  graphical interface. 
+          graphical interface. 
 
 
-Running project
+###Running project###
 
 	This project have 3 separated components:
 
@@ -22,7 +22,7 @@ Running project
 
 	* Reciever - listening messages from Broker and display on the screen
 
-###To run one file(s) you should:### 
+###To run one file/s you should:### 
 
 	1. Open console if you use Linux
 
@@ -33,12 +33,12 @@ Running project
 	4. Voila :), program start runing
 
 
-	Note: Program files should be run from separated terminal and simultaneously to see logs on each separated terminal.
+####Note: Program files should be run from separated terminal and simultaneously to see logs on each separated terminal.####
 
+	####For this propose I had used UDP as trasnfer protocol so there is no garantee thad all the messages will arrive.####
 
-	For this propose I had used UDP as trasnfer protocol so there is no garantee thad all the messages will arrive.
+####Good luck :)####
 
-Good luck :)
 
         [Client] ----> |------- |
         [Client] ----> | Broker | ---> [Reciever]
