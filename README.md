@@ -1,5 +1,4 @@
 #Message broker model in Python#
-
 ###powered by Tabirta Adrian###
 
 ###Instalation:###
@@ -22,7 +21,7 @@
 
 	* Reciever - listening messages from Broker and display on the screen
 
-###To run one file you should: ### 
+###To run one file you should:### 
 
 	1. Open console if you use Linux
 
@@ -30,13 +29,12 @@
 
 	3. Type in in comand line: YOUR_NAME@Linux_machine:# python client.py
 
-	4. Voila :), program start runing
+	4. Voila :) -  program start runing
 
 
 ####Note: Program files should be run from separated terminal and simultaneously to see logs on each separated terminal.####
 
-	####For this propose I had used UDP as trasnfer protocol so 
-	    there is no garantee thad all the messages will arrive.####
+####For this propose I had used UDP as trasnfer protocol so there is no garantee thad all the messages will arrive.####
 
 ####Good luck :)####
 
