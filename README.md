@@ -1,6 +1,9 @@
-**               Message broker model in Python                               **
+**Message broker model in Python**
 **powered by Tabirta Adrian** 
-============================================================================-==
+
+_____________________________________________________________________________
+
+____________________________________________________________________________
 Instalation: 
 
 For this project you need to install:
