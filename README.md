@@ -1,6 +1,5 @@
-===============================================================================
---- Message broker model in Python ---
-			 powered by Tabirta Adrian 
+**               Message broker model in Python                               **
+**powered by Tabirta Adrian** 
 ============================================================================-==
 Instalation: 
 
